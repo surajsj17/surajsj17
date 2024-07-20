@@ -1,3 +1,4 @@
+![logo](https://github.com/surajsj17/surajsj17/blob/main/git-backgroung.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Jaiswal</h1>
 <h3 align="center">"A passionate Cloud and DevOps engineer from India, specializing in automation, infrastructure as code, and continuous integration."</h3>
 <img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
