@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Jaiswal</h1>
 <h3 align="center">"A passionate Cloud and DevOps engineer from India, specializing in automation, infrastructure as code, and continuous integration."</h3>
-<img align="right" alt="DevOps" width="400" src="![image](https://github.com/user-attachments/assets/d5fb352c-46ac-488e-89c3-e7ccad9c8efe)">
+<img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
 
 - 🔭 I’m currently working on **EKS Based Project with Automation / ECS Based Project with Automation / EC2 Based Project with Automation**
 
