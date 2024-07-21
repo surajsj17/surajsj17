@@ -36,3 +36,7 @@
 <p><h3>AWS Project Architecture Diagram </h3></p>
 <p><img align="center" width="1000" halt="DevOps" width="400" src="https://github.com/surajsj17/surajsj17/blob/main/AWS-Project.png"></p>
 
+<p></p>
+<p><h3>AWS - ECS Based [3 Tier] Project Architecture Diagram </h3></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws.jpg"></p>
+
