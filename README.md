@@ -32,11 +32,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajsj17&show_icons=true&locale=en" alt="surajsj17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsj17&" alt="surajsj17" /></p>
-<p></p>
+<br>
 <p><h3>AWS Project Architecture Diagram </h3></p>
 <p><img align="center" width="1000" halt="DevOps" width="400" src="https://github.com/surajsj17/surajsj17/blob/main/AWS-Project.png"></p>
 
-<p></p>
-<p><h3>AWS - ECS Based [3 Tier] Project Architecture Diagram </h3></p>
+<br>
+<p><h3>AWS - ECS Based [3-Tier] Project Architecture Diagram </h3></p>
 <p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg"></p>
-
+<br>
+<p><h3>AWS architecture for a project with a Single Availability Zone</h3></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png"></p>
