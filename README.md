@@ -34,11 +34,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsj17&" alt="surajsj17" /></p>
 <br>
 <p><h3>AWS Project Architecture Diagram </h3></p>
-<p><img align="center" width="1000" halt="DevOps" width="400" src="https://github.com/surajsj17/surajsj17/blob/main/AWS-Project.png"></p>
+<p><img align="center" width="1000" halt="DevOps" width="400" src="https://github.com/surajsj17/surajsj17/blob/main/aws-Project-React.png"></p>
 
 <br>
 <p><h3>AWS - ECS Based [3-Tier] Project Architecture Diagram </h3></p>
 <p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg"></p>
 <br>
 <p><h3>AWS architecture for a project with a Single Availability Zone</h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png"></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/single-Az.jpg"></p>
+
+<p><h3>AWS architecture for a project with a Multiples Availability Zone and Complex </h3></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg"></p>
