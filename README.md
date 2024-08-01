@@ -41,7 +41,10 @@
 <p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg"></p>
 <br>
 <p><h3>AWS architecture for a project with a Single Availability Zone</h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/single-Az.jpg"></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png"></p>
+<br>
+<p><h3>AWS - ECS and ECR architecture for a project with a Single Availability Zone</h3></p>
+<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/AWS-ECS_ECR.jpg"></p>
 
-<p><h3>AWS architecture for a project with a Multiples Availability Zone and Complex </h3></p>
+<p><h3>AWS architecture for a project with a Multiples Availability Zone and Complex Project </h3></p>
 <p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg"></p>
