@@ -1,94 +1,108 @@
 <!-- Modern GitHub Profile README for Suraj Jaiswal -->
-
 <p align="center">
   <img src="https://github.com/surajsj17/surajsj17/blob/main/git-backgroung.jpg" width="100%" alt="Header Image"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Suraj Jaiswal</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes | CI/CD</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Kubernetes | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/devopsimg.gif?raw=true"  alt="DevOps Animation"/>
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/devopsimg.gif?raw=true" alt="DevOps Animation"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on: **EKS / ECS / EC2 Projects with full automation**
-- 🌱 Learning: **DevOps tools (IaC, Kubernetes, GitOps)**
-- 💻 Projects: [My LinkedIn](https://www.linkedin.com/in/suraj-jaiswal-b20932205)
-- 📝 Writing Articles: [LinkedIn Posts](https://www.linkedin.com/in/suraj-jaiswal-b20932205)
-- 💬 Ask me about: **AWS Projects and Architecture**
-- 📫 Reach me: **sj053040@gmail.com**
+### 🌟 About Me
+- 🔭 **Building:** On-prem Kubernetes clusters + AWS (EKS/ECS) with full automation  
+- 🌱 **Learning:** Advanced Kubernetes, GitOps, and Data Center Architecture  
+- ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/suraj-jaiswal-b20932205)  
+- 💬 **Ask me about:** AWS Architectures & CI/CD Pipelines  
+- 📫 **Reach me:** `sj053040@gmail.com`  
 
 ---
 
-### 🌐 Connect With Me
+### 🤝 Connect With Me
 <p align="center">
   <a href="https://twitter.com/surajsj17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/suraj-jaiswal-b20932205"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/surajjaiswalsj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/suraj_sj_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:sj053040@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-</p>
+### 🛠️ Tech Stack
+
+#### 🔐 **Security & Networking**
+`OWASP ZAP` `pfSense` `Firewall Policies` `Network Hardening`
+
+#### 📊 **Monitoring & Observability**
+`Prometheus` `Grafana` `Alert Manager` `Custom Dashboards`
+
+#### ⚡ **CI/CD & Automation**
+`Jenkins` `ArgoCD` `GitHub Actions` `Ansible` `Terraform`
+
+#### ☸️ **Containers & Orchestration**
+`Docker` `Kubernetes` `Helm` `Istio` `ECS/EKS`
+
+#### ☁️ **Cloud & Virtualization**
+`AWS` `Proxmox` `KVM/Libvirt` `Multi-Cloud Strategies`
+
+#### 💾 **Storage Solutions**
+`MinIO` `TrueNAS` `EBS/S3` `Persistent Volumes`
+
+#### 🖥️ **OS & Scripting**
+`Linux` `Bash` `Python` `Git` `Infra as Code`
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajsj17&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsj17&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajsj17&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=surajsj17&theme=radical"/>
 </p>
 
 ---
 
-### 📁 Project Architectures
+### 🏗️ Project Highlights
 
-#### ✅ EKS/ECS/EC2 Projects with Automation
+#### **AWS EKS/ECS Automation**  
+» Automated scaling with Cluster Autoscaler  
+» CI/CD pipelines with ArgoCD + GitOps  
+
+#### **On-Prem Kubernetes Cluster**  
+» Bare-metal K8s with Calico CNI  
+» Integrated with Prometheus/Grafana  
+
+#### **Infrastructure as Code**  
+» Terraform for AWS provisioning  
+» Ansible for configuration management  
+
+---
+
+> "**Infrastructure as Code isn't magic - it's just automation done right.**" 
+
+### 🏗️ Project Architectures
+
+#### AWS EKS/ECS Automation
 <p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-Project-React.png" width="100%"/>
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-Project-React.png" width="90%"/>
 </p>
 
-#### ✅ ECS Based 3-Tier Architecture
+#### 3-Tier ECS Architecture
 <p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg" width="100%"/>
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg" width="90%"/>
 </p>
 
-#### ✅ Single AZ Architecture
+#### Multi-AZ Complex Setup
 <p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png" width="100%"/>
-</p>
-
-#### ✅ ECS + ECR (Single AZ)
-<p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/AWS-ECS_ECR.jpg" width="100%"/>
-</p>
-
-#### ✅ Multi-AZ & Complex Architecture
-<p align="center">
-  <img src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg" width="100%"/>
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg" width="90%"/>
 </p>
 
 ---
 
-> "Striving to turn infrastructure into code and problems into opportunities."
+> "Automation isn't just about efficiency - it's about creating reproducible excellence."
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surajsj17&label=Profile%20views&color=0e75b6&style=flat" alt="surajsj17" />
