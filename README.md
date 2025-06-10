@@ -13,11 +13,11 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Building:** On-prem Kubernetes clusters + AWS (EKS/ECS) with full automation  
-- 🌱 **Learning:** Advanced Kubernetes, GitOps, and Data Center Architecture  
-- ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/suraj-jaiswal-b20932205)  
-- 💬 **Ask me about:** AWS Architectures & CI/CD Pipelines  
-- 📫 **Reach me:** `sj053040@gmail.com`  
+- 🔭 **Currently Building:** Hybrid cloud solutions with Kubernetes (EKS/On-prem)  
+- 🌱 **Deep Diving Into:** GitOps workflows, Service Meshes, and Cloud Security  
+- ✍️ **Sharing Knowledge:** [LinkedIn Articles](https://www.linkedin.com/in/suraj-jaiswal-b20932205) | [Technical Blog]()  
+- 💬 **Let's discuss:** Scalable architectures & Zero-downtime deployments  
+- ⚡ **Fun fact:** I automate everything - even my coffee routine!   
 
 ---
 
