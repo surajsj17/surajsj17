@@ -1,50 +1,95 @@
-![logo](https://github.com/surajsj17/surajsj17/blob/main/git-backgroung.jpg)
-<h1 align="center">Hi 👋, I'm Suraj Jaiswal</h1>
-<h3 align="center">"A passionate Cloud and DevOps engineer from India, specializing in automation, infrastructure as code, and continuous integration."</h3>
-<img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
+<!-- Modern GitHub Profile README for Suraj Jaiswal -->
 
-- 🔭 I’m currently working on **EKS Based Project with Automation / ECS Based Project with Automation / EC2 Based Project with Automation**
-
-- 🌱 I’m currently learning **DevOps - tools [IAC and K8s]**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/suraj-jaiswal-b20932205](www.linkedin.com/in/suraj-jaiswal-b20932205)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/suraj-jaiswal-b20932205](www.linkedin.com/in/suraj-jaiswal-b20932205)
-
-- 💬 Ask me about **AWS Cloud [project]**
-
-- 📫 How to reach me **sj053040@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suraj jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj jaiswal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj jaiswal" height="30" width="40" /></a>
-<a href="https://fb.com/suraj jaiswal sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj jaiswal sj" height="30" width="40" /></a>
-<a href="https://instagram.com/suraj_sj_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_sj_007" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/git-backgroung.jpg" width="100%" alt="Header Image"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Suraj Jaiswal</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes | CI/CD</h3>
 
+<p align="center">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" width="400" alt="DevOps Animation"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsj17&show_icons=true&locale=en&layout=compact" alt="surajsj17" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajsj17&show_icons=true&locale=en" alt="surajsj17" /></p>
+### 🚀 About Me
+- 🔭 Working on: **EKS / ECS / EC2 Projects with full automation**
+- 🌱 Learning: **DevOps tools (IaC, Kubernetes, GitOps)**
+- 💻 Projects: [My LinkedIn](https://www.linkedin.com/in/suraj-jaiswal-b20932205)
+- 📝 Writing Articles: [LinkedIn Posts](https://www.linkedin.com/in/suraj-jaiswal-b20932205)
+- 💬 Ask me about: **AWS Projects and Architecture**
+- 📫 Reach me: **sj053040@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsj17&" alt="surajsj17" /></p>
-<br>
-<p><h3>AWS Project Architecture Diagram </h3></p>
-<p><img align="center" width="1000" halt="DevOps" width="400" src="https://github.com/surajsj17/surajsj17/blob/main/aws-Project-React.png"></p>
+---
 
-<br>
-<p><h3>AWS - ECS Based [3-Tier] Project Architecture Diagram </h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg"></p>
-<br>
-<p><h3>AWS architecture for a project with a Single Availability Zone</h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png"></p>
-<br>
-<p><h3>AWS - ECS and ECR architecture for a project with a Single Availability Zone</h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/AWS-ECS_ECR.jpg"></p>
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/surajsj17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/suraj-jaiswal-b20932205"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/surajjaiswalsj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/suraj_sj_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-<p><h3>AWS architecture for a project with a Multiples Availability Zone and Complex Project </h3></p>
-<p><img align="center" width="1000" halt="DevOps"  src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg"></p>
+---
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajsj17&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsj17&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajsj17&theme=radical"/>
+</p>
+
+---
+
+### 📁 Project Architectures
+
+#### ✅ EKS/ECS/EC2 Projects with Automation
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-Project-React.png" width="100%"/>
+</p>
+
+#### ✅ ECS Based 3-Tier Architecture
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-project-new.jpg" width="100%"/>
+</p>
+
+#### ✅ Single AZ Architecture
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/aws-singleAZ-project.png" width="100%"/>
+</p>
+
+#### ✅ ECS + ECR (Single AZ)
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/AWS-ECS_ECR.jpg" width="100%"/>
+</p>
+
+#### ✅ Multi-AZ & Complex Architecture
+<p align="center">
+  <img src="https://github.com/surajsj17/surajsj17/blob/main/docker-compose.jpg" width="100%"/>
+</p>
+
+---
+
+> "Striving to turn infrastructure into code and problems into opportunities."
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajsj17&label=Profile%20views&color=0e75b6&style=flat" alt="surajsj17" />
+</p>
