@@ -8,7 +8,7 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif" width="400" alt="DevOps Animation"/>
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/devopsimg.gif" width="400" alt="DevOps Animation"/>
 </p>
 
 ---
