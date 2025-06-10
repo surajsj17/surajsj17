@@ -58,7 +58,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajsj17&show_icons=true&theme=radical"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsj17&layout=compact&theme=radical"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=surajsj17&theme=radical"/>
 </p>
